@@ -1,0 +1,3 @@
+C:/Users/lasto/CLionProjects/ol_proga/cmake-build-debug/CMakeFiles/ol_proga.dir
+C:/Users/lasto/CLionProjects/ol_proga/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lasto/CLionProjects/ol_proga/cmake-build-debug/CMakeFiles/rebuild_cache.dir
